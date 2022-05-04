@@ -1,0 +1,201 @@
+c:\users\blglab-01-30\documents\visual studio 2015\Projects\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojResolveAssemblyReference.cache
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.Cache
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 4\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojResolveAssemblyReference.cache
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.Cache
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 5\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojResolveAssemblyReference.cache
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+E:\0000 NTP2 2018 c#\Hafta 6\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.Cache
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojResolveAssemblyReference.cache
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+E:\0000 NTP2 2018 c#\Hafta 7\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.Cache
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojResolveAssemblyReference.cache
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+E:\0000 NTP2 2018 c#\Hafta 8\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.Cache
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojResolveAssemblyReference.cache
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+E:\0000 NTP2 2018 c#\Hafta 9\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.Cache
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojResolveAssemblyReference.cache
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+E:\0000 NTP2 2018 c#\Hafta 10\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.Cache
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojResolveAssemblyReference.cache
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+E:\0000 NTP2 2018 c#\Hafta 11\Gündüz\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.Cache
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojResolveAssemblyReference.cache
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+C:\Users\BLGLAB-01-30\Desktop\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.Cache
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.Cache
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+D:\Yeni klasör\yetkiDenemeGuncel\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojResolveAssemblyReference.cache
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+C:\Users\BLGLAB-01-30\Desktop\Yeni klasör\OdevBitik\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.Cache
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojAssemblyReference.cache
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.cache
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.CoreCompileInputs.cache
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+X:\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csprojAssemblyReference.cache
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.cache
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+C:\Users\Asil\Downloads\Exercises\Exercises\GMYO Projeler\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.exe
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\bin\Debug\SavasOyunu.pdb
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.AssemblyReference.cache
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.g.cs
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\App.g.cs
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.cache
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu_MarkupCompile.lref
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\MainWindow.baml
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.g.resources
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.cache
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.exe
+C:\Users\kreio\Desktop\SavasOyunu\SavasOyunu\SavasOyunu\obj\Debug\SavasOyunu.pdb
